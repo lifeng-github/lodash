@@ -1,4 +1,4 @@
-import slice from './slice.js'
+// import slice from './slice.js'
 
 /**
  * Creates an array of elements split into groups the length of `size`.
